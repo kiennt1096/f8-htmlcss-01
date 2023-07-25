@@ -533,6 +533,9 @@ a {
 .footer .social-link:hover {
     background: #ebebeb;
 }
+.footer .social-link + .social-link {
+    margin-left: 18px;
+}
 .footer .row-bottom {
     display: flex;
     align-items: center;
